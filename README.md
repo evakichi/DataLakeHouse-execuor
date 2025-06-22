@@ -3,7 +3,7 @@ DataLakeHouse Execution system
 
 ## How to 
 
-1. Set .env variavle.  
+1. Set .env variable.  
 ```
 TZ="Your country's tiemzone."
 DOMAIN_NAME="Your hostname"
