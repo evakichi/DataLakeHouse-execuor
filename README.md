@@ -1,2 +1,2 @@
-# DataLakeHouse-execuor
+# DataLakeHouse-executor
 DataLakeHouse Execution system
