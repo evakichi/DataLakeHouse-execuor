@@ -7,20 +7,20 @@ DataLakeHouse Execution system
 ```
 TZ="Your country's tiemzone."
 DOMAIN_NAME="Your hostname"
-STORAGE_SERVER_NAME="Your DataLakeHouse-storage hostmane"
+STORAGE_SERVER_NAME="Your DataLakeHouse-storage hostname"
 SPARK_CATALOG_NAME="Catalog name"
 POSTGRES_PORT="Postgres port"
 POSTGRES_DBNAME="set same as POSTGRES_USERNAME "
-POSTGRES_USERNAME="postgres"
-SPARK_WAREHOUSE_NAME="01/warehouse"
-MINIO_CLI_NGINX_PORT="Port for MinIO CLI"
-SPARK_ENDPOINT_NAME="Bucket name"
-POSTGRES_PASSWORD="Password dor PostgreSQL"
+POSTGRES_USERNAME="Username for PosgreSQL."
+SPARK_WAREHOUSE_NAME="Spark warehouse name."
+MINIO_CLI_NGINX_PORT="Port for MinIO CLI."
+SPARK_ENDPOINT_NAME="Bucket name."
+POSTGRES_PASSWORD="Password for PostgreSQL."
 SPARK_JUPYTER_NOTEBOOK_PORT="Jupyter notebook port."
 SPARK_APPLICATION_WEB_UI_PORT="Spark web UI port."
 SPARK_JOB_HISTORY_WEB_UI_PORT="Spark history web UI port."
-MINIO_ROOT_USER="Admin name for MinIO"
-MINIO_ROOT_PASSWORD="Admin password for MinIO"
+MINIO_ROOT_USER="Admin name for MinIO."
+MINIO_ROOT_PASSWORD="Admin password for MinIO."
 ```
 
 2. Set following certs.
